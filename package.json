@@ -1,0 +1,14 @@
+{
+  "name": "aws-demo",
+  "version": "1.0.0",
+  "description": "A Simple Node JS Api to store file into amazon s3 bucket.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abhishek Dhillon",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.732.0"
+  }
+}
